@@ -15,7 +15,7 @@ int process(int n, int m, int matrix [M][N])
     return min;
 }
 
-int main(int argc, char** argv)
+int main()
 {
     int matrix[M][N];
         
